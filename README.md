@@ -44,7 +44,7 @@ I'm R.Prabhakara Arjun ⚡
 <table>
   <tr>
     <td>
-      <img src="https://leetcard.jacoblin.cool/arjunprabhakar1910?theme=dark&font=Notosans&ext=heatmap" alt="LeetCode Calendar">
+      <img src="https://leetcard.jacoblin.cool/arjunprabhakar1910?theme=dark&font=Notosans&ext=heatmap" alt="LeetCode Calendar" width="500">
     </td>
     <td>
       <img src="https://preview.redd.it/for-hire-pixel-art-commissions-one-slot-open-landscape-v0-d4ip9ssnukmb1.gif?width=640&crop=smart&auto=webp&s=4acf5a591f8c875ccf8ef96e5a7ef877fa142311" width="500">
