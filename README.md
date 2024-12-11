@@ -2,6 +2,8 @@
 ## Hi there 👋  
 I'm R.Prabhakara Arjun ⚡  
 - 🌱 I am an **ambitious programmer** from India, with a passion for coding and problem-solving.
+- ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
+- 🎨 I love creating.
 
 ## Connect with Me                                                                                                                                               
 📞 **Phone Number**: 9445462959
