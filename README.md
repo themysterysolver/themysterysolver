@@ -3,6 +3,7 @@
 I'm R.Prabhakara Arjun ⚡  
 - 🌱 I am an **ambitious programmer** from India, with a passion for coding and problem-solving.
 - ⚡ Fun fact: Ctrl C, Ctrl V, and Ctrl-Z have saved more lives than Batman.
+- 🎯 Aiming to be avid reader
 - 🎨 I love creating.
 
 ## Connect with Me                                                                                                                                               
